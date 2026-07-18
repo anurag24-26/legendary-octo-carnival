@@ -1,0 +1,30 @@
+{
+  "name": "fitness-coach-bot",
+  "version": "1.0.0",
+  "description": "AI-powered Telegram Fitness Coach using Groq",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "better-sqlite3": "^11.7.0",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.7",
+    "drizzle-orm": "^0.38.3",
+    "fs-extra": "^11.2.0",
+    "grammy": "^1.30.0",
+    "nanoid": "^5.0.9",
+    "node-cron": "^3.0.3",
+    "openai": "^4.77.0",
+    "pino": "^9.5.0",
+    "pino-pretty": "^13.0.0",
+    "sharp": "^0.33.5",
+    "zod": "^3.24.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,8 @@
+{"level":30,"time":"2026-07-18T04:11:11.522Z","pid":11140,"hostname":"Anurag","msg":"✅ Database schema ready"}
+{"level":30,"time":"2026-07-18T04:11:11.790Z","pid":11140,"hostname":"Anurag","expression":"30 6 * * *","timezone":"Asia/Kolkata","msg":"Daily report scheduler active"}
+{"level":30,"time":"2026-07-18T04:11:11.791Z","pid":11140,"hostname":"Anurag","msg":"Alert scheduler active (every 6 hours)"}
+{"level":30,"time":"2026-07-18T04:14:04.333Z","pid":9516,"hostname":"Anurag","msg":"✅ Database schema ready"}
+{"level":30,"time":"2026-07-18T04:14:04.506Z","pid":9516,"hostname":"Anurag","expression":"30 6 * * *","timezone":"Asia/Kolkata","msg":"Daily report scheduler active"}
+{"level":30,"time":"2026-07-18T04:14:04.509Z","pid":9516,"hostname":"Anurag","msg":"Alert scheduler active (every 6 hours)"}
+{"level":30,"time":"2026-07-18T04:14:11.603Z","pid":9516,"hostname":"Anurag","username":"newbottttttttttttttt_bot","msg":"🤖 Fitness Coach Bot is running"}
+{"level":30,"time":"2026-07-18T04:17:28.828Z","pid":9516,"hostname":"Anurag","userId":1,"type":"front","sizeKb":50,"msg":"Photo saved"}
